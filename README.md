@@ -16,7 +16,7 @@ Don't forget to install dependencies:
 If you want to install app on the iOS simulator:
 ```bash
 npx pod-install
-``
+```
 
 Then run the app using Xcode or `react-native` CLI.
 
