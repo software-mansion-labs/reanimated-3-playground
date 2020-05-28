@@ -294,7 +294,7 @@ PODS:
     - ReactCommon/callinvoker (= 0.62.2)
   - RNGestureHandler (1.6.1):
     - React
-  - RNReanimated (1.4.0):
+  - RNReanimated (2.0.0-alpha.1):
     - DoubleConversion
     - FBLazyVector
     - FBReactNativeSpec
@@ -486,7 +486,7 @@ SPEC CHECKSUMS:
   React-RCTVibration: 4356114dbcba4ce66991096e51a66e61eda51256
   ReactCommon: ed4e11d27609d571e7eee8b65548efc191116eb3
   RNGestureHandler: 8f09cd560f8d533eb36da5a6c5a843af9f056b38
-  RNReanimated: 8671a60ab70ec8ecd6c49ec6ac368afd8136014b
+  RNReanimated: cb0dce8f8375ff485c6d4760553ae831500e7787
   Yoga: 3ebccbdd559724312790e7742142d062476b698e
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
