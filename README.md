@@ -13,6 +13,11 @@ Don't forget to install dependencies:
 > cd reanimated-2-playground && yarn
 ```
 
+If you want to install app on the iOS simulator:
+```bash
+npx pod-install
+```
+
 Then run the app using Xcode or `react-native` CLI.
 
 [Check Reanimated 2 documentation here.](https://docs.swmansion.com/react-native-reanimated/)
