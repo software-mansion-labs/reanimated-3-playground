@@ -5718,10 +5718,10 @@ react-native-gesture-handler@^1.6.1:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
-react-native-reanimated@2.0.0-alpha.4:
-  version "2.0.0-alpha.4"
-  resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-2.0.0-alpha.4.tgz#d6af43fe582eb6e4f0d9612440cdcf091013fa30"
-  integrity sha512-NXD1ymTqxcKFiTw8V94MLXgpw1fhMMlTAVWiIgYcWfvUO2smwRZERwH9ox02ZGM+CtiC4Y+SG2NS+ipLmaL3Eg==
+react-native-reanimated@2.0.0-alpha.5:
+  version "2.0.0-alpha.5"
+  resolved "https://registry.yarnpkg.com/react-native-reanimated/-/react-native-reanimated-2.0.0-alpha.5.tgz#ecbb934b9842bd60f74cc28bd5ad181fc34b1ce2"
+  integrity sha512-dSnJESUO/W1Z1lVtJxe6QQuydSIi+KEANBzrCOkD4bdwuEvAz6ulkddiqbJGVEfEgHRkAuE1cpPplswuOb+5eQ==
   dependencies:
     "@babel/plugin-transform-object-assign" "^7.10.4"
     fbjs "^1.0.0"
