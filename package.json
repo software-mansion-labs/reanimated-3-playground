@@ -8,7 +8,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "web": "expo start --web-only --web"
+    "web": "expo start --web"
   },
   "dependencies": {
     "react": "16.13.1",
