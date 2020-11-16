@@ -8,7 +8,7 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "web": "expo start --web"
+    "web": "expo start --web || expo start --web --web-only"
   },
   "dependencies": {
     "expo-asset": "^8.2.0",
