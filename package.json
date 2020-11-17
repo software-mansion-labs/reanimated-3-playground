@@ -8,14 +8,15 @@
     "start": "react-native start",
     "test": "jest",
     "lint": "eslint .",
-    "web": "expo start --web-only --web"
+    "web": "expo start --web || expo start --web --web-only"
   },
   "dependencies": {
+    "expo-asset": "^8.2.0",
     "react": "16.13.1",
     "react-dom": "^16.13.1",
     "react-native": "0.63.1",
     "react-native-gesture-handler": "^1.6.1",
-    "react-native-reanimated": "2.0.0-alpha.8",
+    "react-native-reanimated": "2.0.0-alpha.9",
     "react-native-web": "^0.12.3"
   },
   "devDependencies": {
