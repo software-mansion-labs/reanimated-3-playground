@@ -178,6 +178,11 @@ android {
 
         }
     }
+
+    packagingOptions {
+       pickFirst '**/libjsc.so'
+       pickFirst '**/libc++_shared.so'
+    }
 }
 
 dependencies {
