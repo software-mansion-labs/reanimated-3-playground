@@ -13,21 +13,22 @@
   "dependencies": {
     "expo-asset": "^8.2.0",
     "jsc-android": "^250230.2.1",
-    "react": "16.13.1",
+    "react": "17.0.2",
     "react-dom": "^16.13.1",
-    "react-native": "0.64.1",
+    "react-native": "0.65.0-rc.4",
     "react-native-gesture-handler": "^1.9.0",
-    "react-native-reanimated": "2.2.0",
+    "react-native-reanimated": "2.3.0-alpha.2",
     "react-native-web": "^0.15.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.10.5",
+    "@babel/core": "^7.14.5",
     "@babel/runtime": "^7.10.5",
     "@react-native-community/eslint-config": "^2.0.0",
     "babel-jest": "^26.1.0",
     "eslint": "^7.5.0",
     "jest": "^26.1.0",
-    "metro-react-native-babel-preset": "^0.60.0",
+    "metro-react-native-babel-preset": "^0.66.0",
+    "react-native-codegen": "^0.0.7",
     "react-test-renderer": "16.13.1"
   },
   "jest": {
