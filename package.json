@@ -15,9 +15,10 @@
     "jsc-android": "^250230.2.1",
     "react": "17.0.2",
     "react-dom": "^16.13.1",
-    "react-native": "0.65.0-rc.4",
+    "react-native": "0.65.1",
     "react-native-gesture-handler": "^1.9.0",
-    "react-native-reanimated": "2.3.0-alpha.2",
+    "react-native-reanimated": "2.3.0-beta.1",
+    "react-native-screens": "3.7.2",
     "react-native-web": "^0.15.5"
   },
   "devDependencies": {
@@ -29,7 +30,7 @@
     "jest": "^26.1.0",
     "metro-react-native-babel-preset": "^0.66.0",
     "react-native-codegen": "^0.0.7",
-    "react-test-renderer": "16.13.1"
+    "react-test-renderer": "17.0.2"
   },
   "jest": {
     "preset": "react-native"
