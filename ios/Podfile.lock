@@ -323,7 +323,7 @@ PODS:
     - React-perflogger (= 0.65.1)
   - RNGestureHandler (1.9.0):
     - React-Core
-  - RNReanimated (2.3.0-beta.1):
+  - RNReanimated (2.3.1):
     - DoubleConversion
     - FBLazyVector
     - FBReactNativeSpec
@@ -349,7 +349,6 @@ PODS:
     - React-RCTNetwork
     - React-RCTSettings
     - React-RCTText
-    - React-RCTVibration
     - ReactCommon/turbomodule/core
     - Yoga
   - RNScreens (3.7.2):
@@ -540,11 +539,11 @@ SPEC CHECKSUMS:
   React-runtimeexecutor: 85187f19dd9c47a7c102f9994f9d14e4dc2110de
   ReactCommon: eafed38eec7b591c31751bfa7494801618460459
   RNGestureHandler: 9b7e605a741412e20e13c512738a31bd1611759b
-  RNReanimated: 13f91e6ffd60b3f50c579804958c7610de6ba9c9
+  RNReanimated: 629fedd82e9f6b9138421caa342f0a5ebd711cbe
   RNScreens: 0591543e343c7444ea1756b6265d81a4295922c9
   Yoga: aa0cb45287ebe1004c02a13f279c55a95f1572f4
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
 PODFILE CHECKSUM: 9c71cb6469432aab65149983958895b3d6e90fbc
 
-COCOAPODS: 1.10.1
+COCOAPODS: 1.11.2
