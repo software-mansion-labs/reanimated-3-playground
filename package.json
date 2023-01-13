@@ -11,14 +11,18 @@
     "web": "expo start --web || expo start --web --web-only"
   },
   "dependencies": {
+    "@react-native-community/masked-view": "^0.1.11",
+    "@react-navigation/native": "^6.1.2",
+    "@react-navigation/native-stack": "^6.9.8",
     "expo-asset": "^8.2.0",
     "jsc-android": "^250230.2.1",
     "react": "17.0.2",
     "react-dom": "^16.13.1",
     "react-native": "0.65.1",
-    "react-native-gesture-handler": "^1.9.0",
-    "react-native-reanimated": "2.3.1",
-    "react-native-screens": "3.7.2",
+    "react-native-gesture-handler": "^2.8.0",
+    "react-native-reanimated": "^2.14.1",
+    "react-native-safe-area-context": "^4.4.1",
+    "react-native-screens": "^3.18.2",
     "react-native-web": "^0.15.5"
   },
   "devDependencies": {
