@@ -1,0 +1,13 @@
+current directory: /Users/kacperkapusciak/Dev/Repros/Reanimated3Playground/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+/Users/kacperkapusciak/.rbenv/versions/2.7.6/bin/ruby -I /Users/kacperkapusciak/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20231128-22327-1rzz492.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kacperkapusciak/Dev/Repros/Reanimated3Playground/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/kacperkapusciak/Dev/Repros/Reanimated3Playground/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/kacperkapusciak/Dev/Repros/Reanimated3Playground/vendor/bundle/ruby/2.7.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
