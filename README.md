@@ -1,17 +1,17 @@
-# reanimated-2-playground
+# reanimated-3-playground
 
 This repo contains a fresh React Native project with preinstalled Reanimated V3
 
 Checkout using the following command to start playing with the new Reanimated API:
 
 ```bash
-> git clone git@github.com:software-mansion-labs/reanimated-2-playground.git
+> git clone git@github.com:software-mansion-labs/reanimated-3-playground.git
 ```
 
 Don't forget to install dependencies:
 
 ```bash
-> cd reanimated-2-playground && yarn
+> cd reanimated-3-playground && yarn
 ```
 
 And pods
